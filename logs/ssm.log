@@ -1,0 +1,310 @@
+[WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:03][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:39][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:39][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:39][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:39][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:39][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:31:40][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [DEBUG] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSysObjects;Index=0), making read-only
+ [DEBUG] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.impl.DatabaseImpl]Could not find expected index on table MSysObjects (Db=MMSCRM.mdb)
+ [DEBUG] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.impl.DatabaseImpl]Finished reading system catalog.  Tables: [BlackList, Card, Devices, FailedTask, InboxFilter, infoLib, MSG_Failedbox, MSG_Inbox, MSG_Outbox, MSG_Sentbox, NetFlow, OtherTask, OtherTaskGroup, Phrase, ReplyRule, SendBack, SubscribeMsg, SubscribeMsgGroup, SubscribeSendLog, SupportResourceType, SysParameters, Task, TaskGroup, TeleBook, TeleGroup, UnRegisterMMS] (Db=MMSCRM.mdb)
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:32:30][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:32:31][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.logging.LogFactory]Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@50f6ac94' adapter.
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Retrieving column information for table "MSG_INBOX"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "ID", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgType", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgTitle", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSUrl", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSContentLocation", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgArrivedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedState", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "CommPort", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:32:31][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "Sender", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSysObjects;Index=0), making read-only
+ [DEBUG] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.impl.DatabaseImpl]Could not find expected index on table MSysObjects (Db=MMSCRM.mdb)
+ [DEBUG] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.impl.DatabaseImpl]Finished reading system catalog.  Tables: [BlackList, Card, Devices, FailedTask, InboxFilter, infoLib, MSG_Failedbox, MSG_Inbox, MSG_Outbox, MSG_Sentbox, NetFlow, OtherTask, OtherTaskGroup, Phrase, ReplyRule, SendBack, SubscribeMsg, SubscribeMsgGroup, SubscribeSendLog, SupportResourceType, SysParameters, Task, TaskGroup, TeleBook, TeleGroup, UnRegisterMMS] (Db=MMSCRM.mdb)
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:00][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:37:01][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.logging.LogFactory]Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@50f6ac94' adapter.
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Retrieving column information for table "MSG_INBOX"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "ID", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgType", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgTitle", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSUrl", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSContentLocation", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgArrivedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedState", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "CommPort", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:37:01][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "Sender", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSysObjects;Index=0), making read-only
+ [DEBUG] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.impl.DatabaseImpl]Could not find expected index on table MSysObjects (Db=MMSCRM.mdb)
+ [DEBUG] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.impl.DatabaseImpl]Finished reading system catalog.  Tables: [BlackList, Card, Devices, FailedTask, InboxFilter, infoLib, MSG_Failedbox, MSG_Inbox, MSG_Outbox, MSG_Sentbox, NetFlow, OtherTask, OtherTaskGroup, Phrase, ReplyRule, SendBack, SubscribeMsg, SubscribeMsgGroup, SubscribeSendLog, SupportResourceType, SysParameters, Task, TaskGroup, TeleBook, TeleGroup, UnRegisterMMS] (Db=MMSCRM.mdb)
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:49:58][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.logging.LogFactory]Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@2f953efd' adapter.
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Retrieving column information for table "MSG_INBOX"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "ID", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgType", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgTitle", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSUrl", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSContentLocation", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgArrivedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedState", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "CommPort", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:49:59][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "Sender", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSysObjects;Index=0), making read-only
+ [DEBUG] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.impl.DatabaseImpl]Could not find expected index on table MSysObjects (Db=MMSCRM.mdb)
+ [DEBUG] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.impl.DatabaseImpl]Finished reading system catalog.  Tables: [BlackList, Card, Devices, FailedTask, InboxFilter, infoLib, MSG_Failedbox, MSG_Inbox, MSG_Outbox, MSG_Sentbox, NetFlow, OtherTask, OtherTaskGroup, Phrase, ReplyRule, SendBack, SubscribeMsg, SubscribeMsgGroup, SubscribeSendLog, SupportResourceType, SysParameters, Task, TaskGroup, TeleBook, TeleGroup, UnRegisterMMS] (Db=MMSCRM.mdb)
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:35][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=UnRegisterMMS;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=BlackList;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=Card;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=FailedTask;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=MSG_Sentbox;Index=1), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=NetFlow;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=2), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=ReplyRule;Index=4), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=2), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=SysParameters;Index=3), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleBook;Index=3), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=0), making read-only
+ [WARN] [2018-06-13 11:52:36][com.healthmarketscience.jackcess.Index]unsupported collating sort order SortOrder[2052(0)] for text index (Db=MMSCRM.mdb;Table=TeleGroup;Index=1), making read-only
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.logging.LogFactory]Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@6cc4cdb9' adapter.
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Retrieving column information for table "MSG_INBOX"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "ID", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgType", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgTitle", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSUrl", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSContentLocation", data type 12, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MsgArrivedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedTime", data type 93, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "MMSDownloadedState", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "CommPort", data type 4, in table "MSG_Inbox"
+ [DEBUG] [2018-06-13 11:52:36][org.mybatis.generator.internal.db.DatabaseIntrospector]Found column "Sender", data type 12, in table "MSG_Inbox"
+ 

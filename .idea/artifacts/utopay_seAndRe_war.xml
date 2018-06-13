@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="utopay-seAndRe:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="utopay-seAndRe.war">
+      <element id="artifact" artifact-name="utopay-seAndRe:war exploded" />
+    </root>
+  </artifact>
+</component>
