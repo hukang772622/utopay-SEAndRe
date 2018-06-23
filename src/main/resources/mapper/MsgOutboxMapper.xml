@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yqwy.utopay_seAndRe.mapper.MsgOutboxMapper">
+  <resultMap id="BaseResultMap" type="com.yqwy.utopay_seAndRe.bean.MsgOutbox">
+    <id column="MsgID" jdbcType="INTEGER" property="msgid" />
+    <result column="ExpressLevel" jdbcType="INTEGER" property="expresslevel" />
+    <result column="Sender" jdbcType="VARCHAR" property="sender" />
+    <result column="Receiver" jdbcType="VARCHAR" property="receiver" />
+    <result column="MsgType" jdbcType="INTEGER" property="msgtype" />
+    <result column="MsgTitle" jdbcType="VARCHAR" property="msgtitle" />
+    <result column="MMSContentLocation" jdbcType="VARCHAR" property="mmscontentlocation" />
+    <result column="SendTime" jdbcType="TIMESTAMP" property="sendtime" />
+    <result column="CommPort" jdbcType="INTEGER" property="commport" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    MsgID, ExpressLevel, Sender, Receiver, MsgType, MsgTitle, MMSContentLocation, SendTime, 
+    CommPort
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from MSG_Outbox
+    where MsgID = #{msgid,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from MSG_Outbox
+    where MsgID = #{msgid,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.yqwy.utopay_seAndRe.bean.MsgOutbox">
+    insert into MSG_Outbox (MsgID, ExpressLevel, Sender, 
+      Receiver, MsgType, MsgTitle, 
+      MMSContentLocation, SendTime, CommPort
+      )
+    values (#{msgid,jdbcType=INTEGER}, #{expresslevel,jdbcType=INTEGER}, #{sender,jdbcType=VARCHAR}, 
+      #{receiver,jdbcType=VARCHAR}, #{msgtype,jdbcType=INTEGER}, #{msgtitle,jdbcType=VARCHAR}, 
+      #{mmscontentlocation,jdbcType=VARCHAR}, #{sendtime,jdbcType=TIMESTAMP}, #{commport,jdbcType=INTEGER}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="com.yqwy.utopay_seAndRe.bean.MsgOutbox">
+    insert into MSG_Outbox
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="msgid != null">
+        MsgID,
+      </if>
+      <if test="expresslevel != null">
+        ExpressLevel,
+      </if>
+      <if test="sender != null">
+        Sender,
+      </if>
+      <if test="receiver != null">
+        Receiver,
+      </if>
+      <if test="msgtype != null">
+        MsgType,
+      </if>
+      <if test="msgtitle != null">
+        MsgTitle,
+      </if>
+      <if test="mmscontentlocation != null">
+        MMSContentLocation,
+      </if>
+      <if test="sendtime != null">
+        SendTime,
+      </if>
+      <if test="commport != null">
+        CommPort,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="msgid != null">
+        #{msgid,jdbcType=INTEGER},
+      </if>
+      <if test="expresslevel != null">
+        #{expresslevel,jdbcType=INTEGER},
+      </if>
+      <if test="sender != null">
+        #{sender,jdbcType=VARCHAR},
+      </if>
+      <if test="receiver != null">
+        #{receiver,jdbcType=VARCHAR},
+      </if>
+      <if test="msgtype != null">
+        #{msgtype,jdbcType=INTEGER},
+      </if>
+      <if test="msgtitle != null">
+        #{msgtitle,jdbcType=VARCHAR},
+      </if>
+      <if test="mmscontentlocation != null">
+        #{mmscontentlocation,jdbcType=VARCHAR},
+      </if>
+      <if test="sendtime != null">
+        #{sendtime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="commport != null">
+        #{commport,jdbcType=INTEGER},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.yqwy.utopay_seAndRe.bean.MsgOutbox">
+    update MSG_Outbox
+    <set>
+      <if test="expresslevel != null">
+        ExpressLevel = #{expresslevel,jdbcType=INTEGER},
+      </if>
+      <if test="sender != null">
+        Sender = #{sender,jdbcType=VARCHAR},
+      </if>
+      <if test="receiver != null">
+        Receiver = #{receiver,jdbcType=VARCHAR},
+      </if>
+      <if test="msgtype != null">
+        MsgType = #{msgtype,jdbcType=INTEGER},
+      </if>
+      <if test="msgtitle != null">
+        MsgTitle = #{msgtitle,jdbcType=VARCHAR},
+      </if>
+      <if test="mmscontentlocation != null">
+        MMSContentLocation = #{mmscontentlocation,jdbcType=VARCHAR},
+      </if>
+      <if test="sendtime != null">
+        SendTime = #{sendtime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="commport != null">
+        CommPort = #{commport,jdbcType=INTEGER},
+      </if>
+    </set>
+    where MsgID = #{msgid,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.yqwy.utopay_seAndRe.bean.MsgOutbox">
+    update MSG_Outbox
+    set ExpressLevel = #{expresslevel,jdbcType=INTEGER},
+      Sender = #{sender,jdbcType=VARCHAR},
+      Receiver = #{receiver,jdbcType=VARCHAR},
+      MsgType = #{msgtype,jdbcType=INTEGER},
+      MsgTitle = #{msgtitle,jdbcType=VARCHAR},
+      MMSContentLocation = #{mmscontentlocation,jdbcType=VARCHAR},
+      SendTime = #{sendtime,jdbcType=TIMESTAMP},
+      CommPort = #{commport,jdbcType=INTEGER}
+    where MsgID = #{msgid,jdbcType=INTEGER}
+  </update>
+</mapper>

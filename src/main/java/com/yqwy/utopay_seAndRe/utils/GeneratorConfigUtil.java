@@ -1,4 +1,4 @@
-package com.yqwy.utopay_seAndRe.test;
+package com.yqwy.utopay_seAndRe.utils;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
@@ -12,22 +12,21 @@ import java.util.List;
 /**
  * Created by Administrator on 2018/6/13.
  */
-public class Generator {
+public class GeneratorConfigUtil {
     public void generator() throws Exception {
 
         List<String> warnings = new ArrayList<>();
-        boolean overwrite = true;
-        File configFile = new File("F:\\javaDevelop\\IdeaHukang\\utopay-seAndRe\\src\\main\\resources\\generatorConfig.xml");
+        File configFile = new File("src\\main\\resources\\generatorConfig.xml");
         ConfigurationParser cp = new ConfigurationParser(warnings);
         Configuration config = cp.parseConfiguration(configFile);
-        DefaultShellCallback callback = new DefaultShellCallback(overwrite);
+        DefaultShellCallback callback = new DefaultShellCallback(true);
         MyBatisGenerator myBatisGenerator = new MyBatisGenerator(config, callback, warnings);
         myBatisGenerator.generate(null);
     }
 
     public static void main(String[] args) {
         try{
-            Generator generator = new Generator();
+            GeneratorConfigUtil generator = new GeneratorConfigUtil();
             generator.generator();
         } catch (Exception e) {
             e.printStackTrace();
